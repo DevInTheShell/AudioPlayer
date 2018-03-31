@@ -1,2 +1,2 @@
 # AudioPlayer - TODO List
-- [ ] Build a GUI.
+- [x] Build a GUI.
